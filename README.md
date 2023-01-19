@@ -14,3 +14,5 @@ CRUD em uma API REST documentada com Swagger.
 <br>
 
 Por: <a href="https://github.com/gustamtz">gustamtz</a>
+
+Créditos: @Alura 
