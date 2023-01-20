@@ -42,9 +42,9 @@ public class FilmeController : ControllerBase
     }
 
     /// <summary>
-    /// Recupera um filme do banco de dados pulando e pegando index.
+    /// Recupera um filme por paginação.
     /// </summary>
-    /// <param name="skip">Parâmetros de pular e pegar ID pelo index. 
+    /// <param name="skip">Parâmetros de pular e pegar filme por index. 
     /// </param>
     /// <returns>IEnumerable</returns>
     /// <response code="200">Caso recuperação seja feita com sucesso.</response>
