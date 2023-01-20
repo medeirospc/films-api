@@ -6,7 +6,8 @@ API REST de filmes documentada com Swagger.
 <br>
 
 # Rotas
-![swagger](https://user-images.githubusercontent.com/113216494/213333227-d4f04f47-9170-4eef-b4f2-4244605b1ba3.png)
+
+![swagger](https://user-images.githubusercontent.com/113216494/213726059-ac34076e-4d35-4a29-b5e7-9e96184a2c37.png)
 
 <br>
 
