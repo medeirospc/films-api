@@ -1,4 +1,4 @@
-# Films API.
+# Films API
 
 # Descrição
 API REST de filmes documentada com Swagger.
